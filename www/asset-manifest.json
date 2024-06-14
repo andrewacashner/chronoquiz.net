@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.ca42d41e.css",
-    "main.js": "/static/js/main.0add974a.js",
+    "main.js": "/static/js/main.c665fa68.js",
     "static/js/453.8d0facaa.chunk.js": "/static/js/453.8d0facaa.chunk.js",
     "static/media/hourglass-line.png": "/static/media/hourglass-line.b4c449532d5d3797e0b3.png",
     "index.html": "/index.html",
     "main.ca42d41e.css.map": "/static/css/main.ca42d41e.css.map",
-    "main.0add974a.js.map": "/static/js/main.0add974a.js.map",
+    "main.c665fa68.js.map": "/static/js/main.c665fa68.js.map",
     "453.8d0facaa.chunk.js.map": "/static/js/453.8d0facaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca42d41e.css",
-    "static/js/main.0add974a.js"
+    "static/js/main.c665fa68.js"
   ]
 }
